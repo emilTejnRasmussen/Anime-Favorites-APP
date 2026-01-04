@@ -4,7 +4,7 @@ A React + Vite web application for browsing anime and saving your favorites.
 Anime data is fetched from the Jikan API (MyAnimeList unofficial API).
 
 ## 🚀 Live Demo
-👉 https://emilTejnRasmussen.github.io/Anime-Favorites-APP/
+👉 https://emilTejnRasmussen.github.io/
 
 ## ✨ Features
 - Search for anime using the Jikan API
